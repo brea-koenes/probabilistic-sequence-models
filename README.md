@@ -34,8 +34,8 @@ These methods are widely used in NLP tasks like part-of-speech tagging, named en
 
 ## 📁 Repo Structure
 
-probabilistic-sequence-models/
-├── Hidden_Markov_Model_Viterbi.ipynb
+probabilistic-sequence-models/  
+├── Hidden_Markov_Model_Viterbi.ipynb  
 └── README.md
 
 ---
